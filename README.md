@@ -1,6 +1,6 @@
 # Coronavirus-Dashboard
 
-The purpose of this dashboard is to track the Coronavirus Pandemic and all the statistics available with it such as number of Negative and Positive tests, Hospitalizations, 7-Day averages of Positive Cases, and the number of Positive Cases compared to each states population. Data came from The COVID Tracking Project (https://covidtracking.com/data/api) and is displayed as recorded. As of 03/07/2021, the data resourse has stopped updating and columns of data have been deleted causing some of the visulatizations to become misleading.
+The purpose of this dashboard is to track the Coronavirus Pandemic and all the statistics available with it such as number of Negative and Positive tests, Hospitalizations, 7-Day averages of Positive Cases, and the number of Positive Cases compared to each states population. Data came from The COVID Tracking Project (https://covidtracking.com/data/api) and is displayed as recorded. As of 03/07/2021, the data has stopped updating and columns of data have been deleted causing visulatizations to become misleading, however the basic idea of the dashbaord is still portrayed.
 
 ### Map
 
